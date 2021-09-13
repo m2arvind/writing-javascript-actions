@@ -19,5 +19,6 @@
   "homepage": "https://github.com/m2arvind/writing-javascript-actions#readme",
   "dependencies": {
     "@actions/core": "^1.5.0"
-  }
+  },
+  "devDependencies": {}
 }
